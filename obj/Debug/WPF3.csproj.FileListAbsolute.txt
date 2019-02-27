@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\bin\Debug\WPF3.exe.config
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\bin\Debug\WPF3.exe
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\bin\Debug\WPF3.pdb
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3_MarkupCompile.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3_MarkupCompile.lref
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.g.resources
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.Properties.Resources.resources
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.exe
+C:\Users\Dell\Documents\Exos\WPF\WPF3\WPF3\WPF3\obj\Debug\WPF3.pdb
